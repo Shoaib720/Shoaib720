@@ -1,5 +1,9 @@
 # Hell0 w0rLD
 
+## اسمي شعيب وانا من الهند
+
+Translate that :arrow_upper_right: from Arabic to your language...
+
 I'm an Azure Certified Solutions Architect & a Developer/DevOps/Cloud Engineer with around 2 years of experience.
 
 ### I have strooongg interests in
@@ -13,8 +17,11 @@ I'm an Azure Certified Solutions Architect & a Developer/DevOps/Cloud Engineer w
 - Looking at Sea .. :ocean: ..
 - Techy and nerd talks .. :nerd_face: ..
 - watching Anime and Netflix...
+- Urdu and Arabic Poetries...
 
 ### Irrelevant data ...
 
 - Mumbaikar
 - Single (Area of improvement :wink:)
+
+All Rights Reserved. Registered since 1999. :registered:
