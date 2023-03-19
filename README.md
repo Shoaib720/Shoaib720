@@ -1,9 +1,5 @@
 # Hell0 w0rLD
 
-## لا أصدق أنك أتيت إلى هنا. تعال الآن ، أيها الأحمق
-
-### Translate that :arrow_upper_right: from Arabic to your language [Google Translate](https://translate.google.co.in/) first to know more...
-
 I'm an Azure Certified Solutions Architect & a Developer/DevOps/Cloud Engineer with around 2 years of experience.
 
 ### I have strooongg interests in
