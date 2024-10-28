@@ -10,14 +10,9 @@ I'm an Azure Certified Solutions Architect & a Developer/DevOps/Cloud Engineer w
 
 ### I enjoy......
 
-- Looking at Sea .. :ocean: ..
+- Gazing at the Sea .. :ocean: ..
 - Techy and nerd talks .. :nerd_face: ..
 - watching Anime and Netflix...
 - Urdu and Arabic Poetries...
-
-### Irrelevant data ...
-
-- Mumbaikar
-- Single (Area of improvement :wink:)
 
 All Rights Reserved. Registered since 1999. :registered:
